@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SchadiFoaur
+- 👋 Hi, I’m @Schadi Foaur
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning web-development
 
